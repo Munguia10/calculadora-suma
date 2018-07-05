@@ -31,7 +31,7 @@ public class Calculadora_SumaTest {
 		
 		final Integer sum = Calculadora_Suma.doSum(3, 2);
 		
-		assertThat(sum).isEqualTo(0);
+		assertThat(sum).isNotEqualTo(0);
 		
 	}
 
