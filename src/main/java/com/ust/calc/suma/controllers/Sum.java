@@ -1,4 +1,4 @@
-package controllers;
+package com.ust.calc.suma.controllers;
 
 public interface Sum {
 	
